@@ -1,0 +1,328 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	font-size: 16px;
+}
+body,html,.swiper-wrapper,.swiper-container,.page1,.page2,.page3,.page4,.page5,.page6{
+	height: 100%;
+	width: 100%;
+}
+img{
+	width:100%;
+}
+.page1{
+	
+}
+	.bg{
+		background: url("../img/1b2_01.png") repeat;
+		height: 100%;
+		width: 100%;
+		background-size:contain; 
+	}
+	.cloud{
+		position: absolute;
+		top: 1.05rem;
+		left: 0;
+		z-index: 2;
+		height: 5.84rem;
+		background: url("../img/1-12_03.png") repeat;
+		background-size:contain; 
+		width: 100%;
+	}
+	.cloud img{
+		position: absolute;
+		top: -0.47rem;
+		left: 0;
+		width:100%;
+	}
+	.center1 .one{
+		z-index: 3;
+		position: absolute;
+		top: 2.13rem;
+		left: 0.28rem;
+		width:2.88rem;
+	}
+	.center1 .two{
+		z-index: 3;
+		position: absolute;
+		top: 0.95rem;
+		left: 0.22rem;
+		width:3.38rem;
+	}
+	.center1 .three{
+		z-index: 3;
+		position: absolute;
+		top:1.8rem;
+		left: 0.05rem;
+		width:3.49rem;
+	}
+	.center{
+		z-index: 3;
+		position: absolute;
+		top: 17%;
+		left: 0;
+	}
+	.font{
+		position: absolute;
+		top: 70%;
+		left: 0;
+		z-index: 3;
+	}
+	.font1{
+		position: absolute;
+		bottom:1.71rem;
+		left: 0.6rem;
+		z-index: 3;
+	}
+	.font1 img{
+		width: 2.4rem;
+	}
+	.home{
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		z-index: 3;
+	}
+	.circle{
+		position: absolute;
+		bottom: 2%;
+		left: 0;
+		z-index: 3; 
+	}
+.page2{	
+}
+	.center2{
+		z-index: 3;
+		position: absolute;
+		top:1.24rem;
+		left: 0.22rem;
+		width:3.27rem;
+	}
+	.qiqiu{
+		position: absolute;
+		top: 2.05rem;
+		left: 0.42rem;
+		z-index: 2;
+		
+	}
+	.qiqiu img{
+		width: 0.61rem;
+	}
+	.yun .one{
+		position: absolute;
+		top: 1.83rem;
+		left: 1.77rem;
+		z-index: 2;
+		width: 0.34rem;
+	}
+	.yun .two{
+		position: absolute;
+		top: 3.07rem;
+		right:0.043rem;
+		z-index: 2;
+		width: 1.22rem;
+	}
+	.yuan{
+		position: absolute;
+		top: 18%;
+		left: 0;
+		z-index: 2;
+	}
+	.font2{
+		position: absolute;
+		bottom: 1.59rem;
+		left: 0.87rem;
+		z-index: 2;
+
+	}
+	.font2 img{
+		width: 1.96rem;
+	}
+	.circle2{
+		width: 6%;
+		z-index: 5;
+	}
+	.circle2 img{
+		width: 30%;
+	}
+	.circle2 .one{
+		position: absolute;
+		left:48.5%;
+		bottom: 8%;
+		z-index: 5;
+	}
+	.circle2 .two{
+		position: absolute;
+		left:49.5%;
+		bottom:5%;
+		z-index: 5;
+	}
+	.circle2 .three{
+		position: absolute;
+		left:50%;
+		bottom: 2%;
+		z-index: 5;
+	}
+.page3{	
+}
+	
+	.center3{
+		z-index: 3;
+		position: absolute;
+		top:1.21rem;
+		left: 0.3rem;
+	}
+	.center3 img{
+		width:3.09rem;
+	}
+	.fei{
+		position: absolute;
+		top:1.14rem;
+		left: 0.45rem;
+		z-index: 2;
+	}
+	.fei img{
+		width: 2.29rem;
+	}
+	.font3{
+		position: absolute;
+		bottom:1.6rem;
+		left: 1.21rem;
+		z-index: 2;
+	}
+	.font3 img{
+		width: 1.3rem;
+	}
+.page4{
+}
+	.bg4{
+		background: url("../img/4b.png") repeat;
+		height: 100%;
+		width: 100%;
+		background-size:contain; 
+	}
+	.back1{
+		position: absolute;
+		top:0.5rem;
+		left: 0;
+		z-index: 2;
+	}
+	.back1 img{
+		width: 1.37rem;
+	}
+	.back2{
+		position: absolute;
+		top: 0.33rem;
+		left: 0;
+		z-index: 2;
+	}
+	.center4{
+		z-index: 3;
+		position: absolute;
+		top:2.05rem;
+		left: 0.2rem;
+	}
+	.center4 img{
+		width:3.04rem;
+	}
+	.fei4{
+		position: absolute;
+		top: 1.14rem;
+		left: 0.11rem;
+		z-index:3;
+	}
+	.fei4 img{
+		width: 3.49rem;
+	}
+	.font4{
+		position: absolute;
+		bottom:1.71rem;
+		left: 1.13rem;
+		z-index: 2;
+	}
+	.font4 img{
+		width: 1.29rem;
+	}
+.page5{
+}
+	.center5{
+		top: 18%;
+	}
+	.font5{
+		position: absolute;
+		bottom:1.59rem;
+		left: 0.26rem;
+		z-index: 2;
+	}
+	.font5 img{
+		width: 3.1rem;
+	}
+.page6{
+}
+	.border{
+		position: absolute;
+		top: 11%;
+		left: 0;
+		z-index:2;
+	}
+	.center6{
+		z-index: 3;
+		position: absolute;
+		top:2.3rem;
+		left: 0.77rem;
+	}
+	.center6 input{
+		width: 2rem;
+		height:0.41rem; 
+		border: none;
+		margin-bottom: 0.11rem;
+		padding: .1rem;
+		box-sizing: border-box;
+	} 
+	.center6 button{
+		width: 1.99rem;
+		height:0.4rem; 
+		border: none;
+		margin-top:0.11rem;
+		background: #ec8119;
+		color: #fff; 
+	}
+	.bt{
+		position: absolute;
+		top: 1.13rem;
+		right: 0.95rem;
+		z-index: 2;
+	}
+	.bt img{
+		width:0.18rem;
+	}
+	.font6{
+		position: absolute;
+		bottom:1.4rem;
+		left: 0.36rem;
+		z-index: 2;
+	}
+	.font6 img{
+		width:2.91rem;
+	}
+	.wechat{
+		z-index: 3;
+		position: absolute;
+		top:5.36rem;
+		left: 1.58rem;
+	}
+	.wechat img{
+		width:0.45rem; 
+	}
+	.logo{
+		z-index: 3;
+		position: absolute;
+		bottom:0.35rem;
+		left:1.27rem;
+	}
+	.logo img{
+		width:0.87rem;
+	}
+	
